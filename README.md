@@ -10,5 +10,5 @@ Plataforma utilizada: Roboflow Total de imagens: 59, sendo 29 de orangotangos e 
 <br>
 O dataset foi desenvolvido para treinar um modelo de aprendizado de máquina capaz de identificar e diferenciar essas espécies.
 <br>
-Objetivo: Desenvolver uma solução que possa classificar primatas com precisão, utilizando técnicas de visão computacional. 
+<b>Objetivo:</b> Desenvolver uma solução que possa classificar primatas com precisão, utilizando técnicas de visão computacional. 
 Este dataset servirá como base para a detecção automática das espécies envolvidas, abrindo caminhos para o uso de modelos em cenários de identificação de fauna.
