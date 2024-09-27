@@ -1,8 +1,6 @@
 <b>Documentação - Checkpoint 1</b> 
 <br>
 <br>
-<b>Integrantes:</b> Gabriel Sá Bragança - 554064 Erick Lopes - 553927 Marco Aurélio Morais Ennes - 553201
-<br>
 <b>Descrição do Projeto:</b> O projeto desenvolvido no Checkpoint 1 tem como objetivo criar um modelo de visão computacional para a detecção de 
 diferentes espécies de primatas, focando especificamente em orangotangos e gorilas. 
 <br>
